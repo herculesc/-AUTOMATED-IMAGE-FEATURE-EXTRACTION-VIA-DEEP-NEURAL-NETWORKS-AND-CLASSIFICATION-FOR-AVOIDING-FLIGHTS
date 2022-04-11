@@ -9,7 +9,7 @@ A code was created that automatically performs operations on the matrices of eac
 ![image](https://user-images.githubusercontent.com/46453745/162775246-0032c62d-0296-4023-977b-97c5123c7aa4.png)
 
 
-# schemas used in the orange environment
+# Schemas used in the orange environment
 
 Logistic Regression
 
