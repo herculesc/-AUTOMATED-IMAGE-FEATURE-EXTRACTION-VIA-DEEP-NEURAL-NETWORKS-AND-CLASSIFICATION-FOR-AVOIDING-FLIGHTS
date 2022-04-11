@@ -2,6 +2,12 @@
 
 # Image classification using a neural network as an extractor of information from images and machine learning techniques as a classifier.
 
+#Data Augmentation
+
+A code was created that automatically performs operations on the matrices of each image. such as filters, contrasts, rotation, noise and mirroring.
+
+![image](https://user-images.githubusercontent.com/46453745/162775246-0032c62d-0296-4023-977b-97c5123c7aa4.png)
+
 
 # schemas used in the orange environment
 
