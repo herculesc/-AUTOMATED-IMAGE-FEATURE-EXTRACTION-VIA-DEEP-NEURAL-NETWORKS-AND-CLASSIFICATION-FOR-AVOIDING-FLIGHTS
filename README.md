@@ -5,7 +5,7 @@
 
 # schemas used in the orange environment
 
-Logistic Regression 
+Logistic Regression,
 ![Logistic_Regression](https://user-images.githubusercontent.com/46453745/162771070-a213871d-bc40-4a52-9204-5f0b25642120.png)
 
 Neural Network 
