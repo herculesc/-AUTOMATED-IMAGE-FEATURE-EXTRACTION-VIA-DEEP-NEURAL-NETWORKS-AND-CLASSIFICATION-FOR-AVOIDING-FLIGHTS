@@ -2,7 +2,7 @@
 
 # Image classification using a neural network as an extractor of information from images and machine learning techniques as a classifier.
 
-#Data Augmentation
+# Data Augmentation
 
 A code was created that automatically performs operations on the matrices of each image. such as filters, contrasts, rotation, noise and mirroring.
 
